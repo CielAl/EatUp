@@ -1,0 +1,1 @@
+ALTER TABLE `userlist` ADD `email` VARCHAR(254) CHARACTER SET ascii COLLATE ascii_general_ci NOT NULL AFTER `userid`;
