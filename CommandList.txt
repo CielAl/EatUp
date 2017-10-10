@@ -1,0 +1,2 @@
+%uploading
+scp "/cygdrive/c/Lecture Local/CSE437New/Eatup.sql"  g13@34.203.219.137:
